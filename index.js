@@ -5,3 +5,7 @@ let thisOtherVariable = 2 //this is the modern way to make a variable that will 
 const stringVariable = `string ${thisVarbiable} ${thisOtherVariable}` //strings 
 
 console.log(stringVariable)
+//print out the new variable
+//comment 2
+console.log("Complete")
+console.log("Complete")
